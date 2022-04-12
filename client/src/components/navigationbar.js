@@ -52,6 +52,7 @@ function Nav() {
             <span className="icon-bar"></span>
             <span className="icon-bar"></span>
             <span className="icon-bar"></span>
+            <span className="icon-bar"></span>
           </button>
           <a className="navbar-brand" href="index.html"></a>
         </div>
